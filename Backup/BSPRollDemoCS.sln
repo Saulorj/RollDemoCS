@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSPRollDemoCS", "BSPRollDemoCS.csproj", "{8FEA5C58-4294-4126-8C43-DA4CE88A3FED}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = BSPRollDemoCS.csproj
+		SccProjectName0 = \u0022$/Project/NBioBSP_2008/Samples/dotNet/C#/BSPRollDemoCS\u0022,\u0020ZROAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FEA5C58-4294-4126-8C43-DA4CE88A3FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEA5C58-4294-4126-8C43-DA4CE88A3FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FEA5C58-4294-4126-8C43-DA4CE88A3FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FEA5C58-4294-4126-8C43-DA4CE88A3FED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\saccacio\Desktop\RollDemoCS\obj\Debug\BSPRollDemoCS.csproj.AssemblyReference.cache
+C:\Users\saccacio\Desktop\RollDemoCS\obj\Debug\BSPRollDemoCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\saccacio\Desktop\RollDemoCS\obj\Debug\BSPRollDemoCS.Form1.resources
+C:\Users\saccacio\Desktop\RollDemoCS\obj\Debug\BSPRollDemoCS.csproj.GenerateResource.cache
+C:\Users\saccacio\Desktop\RollDemoCS\obj\Debug\BSPRollDemoCS.csproj.CoreCompileInputs.cache
+C:\Users\saccacio\Desktop\RollDemoCS\bin\Debug\BSPRollDemoCS.exe.config
+C:\Users\saccacio\Desktop\RollDemoCS\bin\Debug\BSPRollDemoCS.exe
+C:\Users\saccacio\Desktop\RollDemoCS\bin\Debug\BSPRollDemoCS.pdb
+C:\Users\saccacio\Desktop\RollDemoCS\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Users\saccacio\Desktop\RollDemoCS\obj\Debug\BSPRollDemoCS.csproj.CopyComplete
+C:\Users\saccacio\Desktop\RollDemoCS\obj\Debug\BSPRollDemoCS.exe
+C:\Users\saccacio\Desktop\RollDemoCS\obj\Debug\BSPRollDemoCS.pdb
